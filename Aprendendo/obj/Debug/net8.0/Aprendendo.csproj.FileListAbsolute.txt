@@ -1,0 +1,14 @@
+L:\C#\Aprendendo\bin\Debug\net8.0\Aprendendo.exe
+L:\C#\Aprendendo\bin\Debug\net8.0\Aprendendo.deps.json
+L:\C#\Aprendendo\bin\Debug\net8.0\Aprendendo.runtimeconfig.json
+L:\C#\Aprendendo\bin\Debug\net8.0\Aprendendo.dll
+L:\C#\Aprendendo\bin\Debug\net8.0\Aprendendo.pdb
+L:\C#\Aprendendo\obj\Debug\net8.0\Aprendendo.GeneratedMSBuildEditorConfig.editorconfig
+L:\C#\Aprendendo\obj\Debug\net8.0\Aprendendo.AssemblyInfoInputs.cache
+L:\C#\Aprendendo\obj\Debug\net8.0\Aprendendo.AssemblyInfo.cs
+L:\C#\Aprendendo\obj\Debug\net8.0\Aprendendo.csproj.CoreCompileInputs.cache
+L:\C#\Aprendendo\obj\Debug\net8.0\Aprendendo.dll
+L:\C#\Aprendendo\obj\Debug\net8.0\refint\Aprendendo.dll
+L:\C#\Aprendendo\obj\Debug\net8.0\Aprendendo.pdb
+L:\C#\Aprendendo\obj\Debug\net8.0\Aprendendo.genruntimeconfig.cache
+L:\C#\Aprendendo\obj\Debug\net8.0\ref\Aprendendo.dll
